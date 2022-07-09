@@ -27,7 +27,8 @@ Version:	1.1
 	* Preloader JS
 ========================================
 [End Activation Code]
-========================================*/ 
+========================================*/
+
 (function ($) {
 	"use strict";
     $(document).ready(function(){
